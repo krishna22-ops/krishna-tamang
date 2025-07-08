@@ -2,7 +2,7 @@
 
 🎓 **Student at the University of Greenwich**  
 🔬 Aspiring **Data Scientist** — currently building my skills and exploring new technologies  
-💻 **Portfolio:** [Website-]([https://github.com/krishna22-ops/Website-](http://127.0.0.1:5500/index.html))  
+💻 **Portfolio:** [Website-](https://github.com/krishna22-ops/Website-)  
 
 ---
 
