@@ -1,4 +1,4 @@
-# Hi, I’m Krishna 👋
+# Hi, I’m Krishna Tamang 👋
 
 🎓 **Student at the University of Greenwich**  
 🔬 Aspiring **Data Scientist** — currently building my skills and exploring new technologies  
