@@ -1,7 +1,7 @@
 # Hi, I’m Krishna Tamang 👋
 
 🎓 **Student at the University of Greenwich**  
-🔬 Aspiring **Data Scientist** — currently building my skills and exploring new technologies  
+🔬 Aspiring **Data Engineer** — currently building my skills and exploring new technologies  
 💻 **Portfolio:** [Website-](https://github.com/krishna22-ops/Website-)  
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🌟 Favorite Projects
 
-- **[CineInsights](#)**  
+- **MovieMind**  
   Dive deep into movie data to uncover trends and insights.
 
 - **Spotify’s 150 Tracks**  
