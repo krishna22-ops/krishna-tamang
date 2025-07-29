@@ -27,7 +27,7 @@
 
 ## 📈 Currently Working On
 
-- Expanding my knowledge in data science and programming  
+- Expanding my knowledge in data engineering and programming  
 - Experimenting with new datasets and technologies  
 - Building and refining my [portfolio website](https://github.com/krishna22-ops/Website-)
 
